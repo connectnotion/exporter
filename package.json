@@ -2,7 +2,7 @@
   "dependencies": {
     "@ronething/notion-db-exporter": "^1.0.0"
   },
-  "name": "exporter",
+  "name": "@ronething/exporter",
   "description": "notion db exporter example",
   "version": "1.0.0",
   "main": "index.js",
