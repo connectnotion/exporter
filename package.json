@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "@ronething/notion-db-exporter": "^1.0.0"
-  }
+  },
+  "name": "exporter",
+  "description": "notion db exporter example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/connectnotion/exporter.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/connectnotion/exporter/issues"
+  },
+  "homepage": "https://github.com/connectnotion/exporter#readme"
 }
